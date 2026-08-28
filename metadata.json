@@ -1,0 +1,5 @@
+{
+  "name": "PhytoSmart - Medicinal Plants Platform",
+  "description": "A premium multilingual platform for medicinal plant knowledge, health alerts, and environmental mapping.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
